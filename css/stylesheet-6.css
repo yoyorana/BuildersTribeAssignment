@@ -1,0 +1,316 @@
+.block-view{
+    padding :20px 0px;
+}
+.layout--twocol-section {
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    padding-bottom: 100px;
+   
+  } 
+
+.layout__region--second{
+  width: fit-content;
+
+} 
+
+   .boxes{
+
+     width: fit-content;
+  } 
+  
+  .box1{
+ 
+    height: 60px; 
+    width: 143px; /* here if width is 139px then it will not wrap in a single line */
+    font-family: 'Gilroy-Regular', sans-serif;
+font-size: 40px;
+line-height:60px ;
+line-height: 150%;;
+
+  }
+.box2{
+
+    width: 266px;
+    height: 96px; 
+font-family: 'Gilroy-Medium', sans-serif;
+font-size: 64px;
+
+line-height: 150%;
+
+
+  }
+.contentaboutcoindcx{
+
+    width: 991px;
+    height: 144px; 
+
+font-family: 'Gilroy-Medium', sans-serif;
+font-size: 24px;
+font-weight: 500;
+line-height: 36px;
+line-height: 150%;
+
+
+
+}
+.AvailableDate{
+
+    
+    width: 189px;
+    height: 22px; 
+    
+
+font-family: 'Gilroy-Medium', sans-serif;
+font-size: 18px;
+font-weight: 500;
+
+line-height: 100%;
+
+
+}
+.apply{
+    font-family: 'Gilroy-Medium', sans-serif;
+    width: 316px;
+height: 48px;
+border-radius: 12px;
+margin-top: 32px;
+border-color: #ffffff;
+font-size: 20px;
+font-weight: 500;
+line-height: 26px;
+line-height: 120%;
+color: #ffffff;
+background-color: #407BFF;
+}
+
+.block-views-blockprograms-block-7{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+}
+.part1{
+
+  margin-top: 100px;
+
+    
+}
+.nextpart{
+    background-image: linear-gradient(rgba(0,0,0,0) 0%,#000000 46.52%,rgba(0,0,0,0) 100%);
+    height: 724px;
+    width: 1px;
+  
+}
+
+.content1{
+    font-family: 'Gilroy-Medium', sans-serif;
+    font-weight: 600;
+    font-size: 32px;
+    text-align: center;
+
+    width: 393px;
+    height: 76px;
+    opacity: 40%;
+  
+}
+
+.content2{
+    width: 333px;
+    height: 160px;
+    font-family: 'Gilroy-Medium', sans-serif;
+    font-weight: 500;
+    font-size: 132px;
+  
+    text-align: left;
+    vertical-align: top;
+}
+.content3{
+    font-family: 'Gilroy-Medium', sans-serif;
+    font-weight: 600;
+    font-size: 32px;
+    text-align: 24px;
+    font-weight: bold;
+    font-size: 32px;
+    vertical-align: top;
+    margin-bottom: 90px;
+    Opacity: 40%;
+    text-align: center;
+}
+.content4{
+    width: 287px;
+    height: 59px;
+    color: orange;
+    font-size: 35px;
+    text-align: center;
+    font-weight: bold;
+    text-align: end;
+}
+.part2{
+  
+    margin-top: 188px;
+    width: 391px;
+    height: 338px;
+  
+}
+.container1{
+    margin-top: 52px;
+    font-family: 'Gilroy-Medium', sans-serif;
+    font-size: 32px;
+    font-weight: 500;
+    text-align: center;
+
+}
+.container2{
+    font-family: 'Gilroy-Medium', sans-serif;
+    font-size: 112px;
+    font-weight: 500;
+    text-align: center;
+}
+.label2{
+    width: 475px;
+    height: 76px;
+    font-family: 'Gilroy-Medium', sans-serif;
+    font-weight: bold;
+    font-size: 32px;
+    opacity: 40%;
+
+}
+@media screen and (max-width:1024px) {
+    .box1{
+ 
+        height: 30px; 
+        width: 72px; /* here if width is 139px then it will not wrap in a single line */
+        font-family: 'Gilroy-Regular', sans-serif;
+    font-size: 20px;
+
+    
+      }
+      .box2{
+        width: 133px;
+        height: 60px; 
+    font-size: 32px;
+    line-height: 150%;
+    
+    
+      }
+      .contentaboutcoindcx{
+        width: 445px;
+        height: 72px; 
+    font-size: 12px;
+    font-weight: 500;   
+    }
+    .AvailableDate{
+
+        
+        width: 94px;
+        height: 22px; 
+    font-size: 9px;
+    font-weight: 500;
+
+    
+    
+    }
+    .apply{
+
+        width: 158px;
+    height: 30px;
+    border-radius: 12px;
+    margin-top: 4px;
+
+    font-size: 10px;
+    font-weight: 500;
+
+    color: #ffffff;
+    background-color: #407BFF;
+    }
+
+
+    .part1{
+    
+      margin-top: 50px;
+    
+        
+    }
+    .nextpart{
+        background-image: linear-gradient(rgba(0,0,0,0) 0%,#000000 46.52%,rgba(0,0,0,0) 100%);
+        height: 500px;
+        width: 1px;
+      
+    }
+    
+    .content1{
+        font-family: 'Gilroy-Medium', sans-serif;
+        font-weight: 600;
+        font-size: 16px;
+        text-align: center;
+    
+        width: 196px;
+        height: 76px;
+        opacity: 40%;
+      
+    }
+    
+    .content2{
+        width: 165px;
+        height: 160px;
+        font-family: 'Gilroy-Medium', sans-serif;
+        font-weight: 500;
+        font-size: 64px;
+      
+        text-align: left;
+        vertical-align: top;
+    }
+    .content3{
+        font-family: 'Gilroy-Medium', sans-serif;
+        font-weight: 600;
+        font-size: 16px;
+        text-align: 24px;
+        font-weight: bold;
+        vertical-align: top;
+        margin-bottom: 70px;
+        Opacity: 40%;
+        text-align: center;
+    }
+    .content4{
+        width: 144px;
+        height: 59px;
+        color: orange;
+        font-size: 17px;
+        text-align: center;
+        font-weight: bold;
+        text-align: end;
+    }
+    .part2{
+      
+        margin-top: 100px;
+        width: 195px;
+        height: 338px;
+      
+    }
+    .container1{
+        margin-top: 40px;
+        font-family: 'Gilroy-Medium', sans-serif;
+        font-size: 16px;
+        font-weight: 500;
+        text-align: center;
+    
+    }
+    .container2{
+        font-family: 'Gilroy-Medium', sans-serif;
+        font-size: 58px;
+        font-weight: 500;
+        text-align: center;
+    }
+    .label2{
+        width: 230px;
+        height: 76px;
+        font-family: 'Gilroy-Medium', sans-serif;
+        font-weight: bold;
+        font-size: 16px;
+        opacity: 40%;
+    
+    }
+
+  }
+
+ 
